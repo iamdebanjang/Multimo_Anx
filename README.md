@@ -1,3 +1,5 @@
+* Details - https://www.overleaf.com/project/6850735413fe1ba215892412
+
 # Multimodal Generative Anxiety & Stress Detector  
 
 
