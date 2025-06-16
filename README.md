@@ -103,13 +103,6 @@ Metrics we report:
 
 ---
 
-## 🛡 Ethics & privacy
-
-* All personal data must be anonymised and encrypted at rest.  
-* Users may opt-out of specific sensors at any time.  
-* Attention heat-maps and uncertainty scores provide transparency, helping clinicians trust the output.
-
----
 
 ## 🛠 Roadmap
 
